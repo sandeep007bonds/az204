@@ -1,0 +1,7 @@
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\testapp2.exe
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\appsettings.json
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\testapp2.dll
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\testapp2.deps.json
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\testapp2.runtimeconfig.json
+D:\Az204\githubapp\az204\testapp2\bin\Debug\net6.0\publish\testapp2.pdb
